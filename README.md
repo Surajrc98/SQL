@@ -2,5 +2,5 @@
 
 Welcome to my profile !!!
 Here, we are discussing everything about PostgreSQL.
-Solving different types of problems to enhance our skills.
+posting study materials,solving different types of problems to enhance our skills.
 
